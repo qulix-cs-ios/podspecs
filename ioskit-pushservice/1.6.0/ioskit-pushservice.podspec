@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.source_files = 'ioskit-pushservice/src/**/*.{swift,h,m}'
 
   s.ios.frameworks = 'UIKit', 'Foundation'
-  s.dependency 'ioskit-logger', '1.5.31'
+  s.dependency 'ioskit-logger', '1.6.0'
 
 end
