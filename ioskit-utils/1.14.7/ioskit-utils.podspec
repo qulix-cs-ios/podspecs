@@ -83,6 +83,10 @@ Pod::Spec.new do |s|
     subspec.dependency 'ioskit-utils/error'
   end
 
+  s.subspec 'textDecoder' do |subspec|
+    subspec.source_files = "ioskit-utils/src/textDecoder/**/*.{swift}"
+  end
+
   s.subspec 'jailbreak' do |jailbreaksubspec|
     jailbreaksubspec.source_files = "ioskit-utils/src/jailbreak/*.{swift}"
 
