@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.source = { :http => "http://cs-repo.qulix.com/content/repositories/ios/com/qulix/ioskit/ioskit_wallet/2.0.beta4/ioskit_wallet.zip" }
   s.platform = :ios, '9.3'
   s.requires_arc = true
-  s.source_files = 'ioskit_wallet/src/**/*.{swift,h,m}'
+  s.source_files = 'ioskit_wallet/src/main/**/*.{swift,h,m}'
   s.ios.frameworks = 'UIKit', 'Foundation', 'PassKit', 'WatchConnectivity'
 
 end
