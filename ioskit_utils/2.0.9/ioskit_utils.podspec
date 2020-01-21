@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.source = { :http => "http://cs-repo.qulix.com/content/repositories/ios/com/qulix/ioskit/ioskit_utils/2.0.9/ioskit_utils.zip" }
 
-  s.platform = :ios, '9.3'
+  s.platform = :ios, '9.0'
   s.requires_arc = true
 
   s.ios.frameworks = 'UIKit', 'Foundation'
