@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for i18n-ios"
   s.license = "Copyright 2002-2020 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/i18n/i18n-ios/0.7.0-SNAPSHOT/i18n-ios-0.7.0-20200318.073641-6.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/i18n/i18n-ios/0.7.0-SNAPSHOT/i18n-ios-0.7.0-20200318.090957-7.zip" }
   s.source_files = 'i18n-ios/src/**/*.{h,m,swift}'
   s.platform = :ios, '10.0'
   s.requires_arc = true
