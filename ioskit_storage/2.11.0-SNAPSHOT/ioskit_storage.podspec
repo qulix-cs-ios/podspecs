@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_storage"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_storage/2.11.0-SNAPSHOT/ioskit_storage-2.11.0-20200319.105100-3.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_storage/2.11.0-SNAPSHOT/ioskit_storage-2.11.0-20200319.105854-4.zip" }
   s.source_files = 'ioskit_storage/src/**/*.{swift,h,m}'
   s.platform = :ios, '9.0'
   s.requires_arc = true
