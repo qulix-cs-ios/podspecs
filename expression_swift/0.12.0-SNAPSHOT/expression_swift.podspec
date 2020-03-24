@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for expression_swift"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/org/expression/expression_swift/0.12.0-SNAPSHOT/expression_swift-0.12.0-20200324.111034-2.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/org/expression/expression_swift/0.12.0-SNAPSHOT/expression_swift-0.12.0-20200324.112656-3.zip" }
   s.source_files = 'expression_swift/src/**/*.{swift,h,m}'
   s.platform = :ios, '9.3'
   s.requires_arc = true
   s.ios.frameworks = 'Foundation'
-  s.dependency 'ioskit_utils', '2.9.0'
-  s.dependency 'ioskit_reflection', '2.9.0'
+  s.dependency 'ioskit_utils', '2.11.0'
+  s.dependency 'ioskit_reflection', '2.11.0'
 end
