@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for csforms"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/org/csforms/csforms/0.1.0-SNAPSHOT/csforms-0.1.0-20200408.101035-10.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/org/csforms/csforms/0.1.0-SNAPSHOT/csforms-0.1.0-20200408.103035-11.zip" }
   s.source_files = 'csforms/src/**/*.{swift}'
   s.platform = :ios, '9.3'
   s.requires_arc = true
