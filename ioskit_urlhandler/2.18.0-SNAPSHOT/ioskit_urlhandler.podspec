@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_urlhandler"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_urlhandler/2.18.0-SNAPSHOT/ioskit_urlhandler-2.18.0-20200415.145633-5.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_urlhandler/2.18.0-SNAPSHOT/ioskit_urlhandler-2.18.0-20200415.152747-6.zip" }
   s.source_files = 'ioskit_urlhandler/src/**/*.{swift,h,m}'
   s.platform = :ios, '10.0'
   s.swift_version = '4.2'
