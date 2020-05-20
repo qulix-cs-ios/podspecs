@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author = "CS iOS Team"
   s.source = { :http => "https://cs-repo.qulix.com/content/repositories/releases/com/ioskittest/ioskit_logger/3.7.0/ioskit_logger-3.7.0.zip" }
   s.source_files = 'ioskit_logger/src/**/*.{h,m,swift}'
-  s.platform = :ios, '9.0'
+  s.platform = :ios, '10.0'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit'
 
