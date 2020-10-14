@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for BiometricAuthentication"
   spec.license = "Copyright 2002-2020 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/BiometricAuthentication/BiometricAuthentication/3.1.3.1-SNAPSHOT/BiometricAuthentication-3.1.3.1-20201014.120009-1.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/BiometricAuthentication/BiometricAuthentication/3.1.3.1-SNAPSHOT/BiometricAuthentication-3.1.3.1-20201014.173825-2.zip" }
   spec.source_files = 'BiometricAuthentication/src/**/*.{swift,h,m}'
   spec.platform = :ios, '10.0'
   spec.requires_arc = true
