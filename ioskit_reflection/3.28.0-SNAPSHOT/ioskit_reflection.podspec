@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for ioskit_reflection"
   spec.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_reflection/3.28.0-SNAPSHOT/ioskit_reflection-3.28.0-20210323.135234-3.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_reflection/3.28.0-SNAPSHOT/ioskit_reflection-3.28.0-20210330.103356-4.zip" }
   spec.source_files = 'ioskit_reflection/src/**/*.{swift,h,m}'
   spec.platform = :ios, '10.0'
   spec.requires_arc = true
