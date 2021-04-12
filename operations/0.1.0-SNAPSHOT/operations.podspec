@@ -7,13 +7,13 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for operations"
   spec.license = "Copyright 2002-2021 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/operations/operations/0.1.0-SNAPSHOT/operations-0.1.0-20210412.144603-36.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/operations/operations/0.1.0-SNAPSHOT/operations-0.1.0-20210412.150922-37.zip" }
   spec.source_files = 'operations/src/**/*.{swift,h,m}'
   spec.platform = :ios, '10.0'
   spec.requires_arc = true
   spec.ios.frameworks = 'UIKit', 'Foundation'
-  spec.dependency 'ioskit_utils', '3.25'
-  spec.dependency 'ioskit_storage', '3.25'
+  spec.dependency 'ioskit_utils'
+  spec.dependency 'ioskit_storage'
   spec.dependency 'expression_swift', '0.18'
   spec.dependency 'csforms', '0.1.0-SNAPSHOT'
 
