@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for operations"
   spec.license = "Copyright 2002-2021 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/operations/operations/0.1.0-SNAPSHOT/operations-0.1.0-20210413.162030-48.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/operations/operations/0.1.0-SNAPSHOT/operations-0.1.0-20210413.183747-49.zip" }
   spec.source_files = 'operations/src/**/*.{swift,h,m}'
   spec.platform = :ios, '10.0'
   spec.requires_arc = true
