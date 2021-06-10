@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for microservices_feature"
   spec.license = "Copyright 2002-2021 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/microservices/feature/microservices_feature/0.1.0-SNAPSHOT/microservices_feature-0.1.0-20210609.121121-2.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/microservices/feature/microservices_feature/0.1.0-SNAPSHOT/microservices_feature-0.1.0-20210609.120518-1.zip" }
   spec.source_files = 'microservices_feature/src/**/*.{swift,h,m}'
   spec.platform = :ios, '11.0'
   spec.requires_arc = true
