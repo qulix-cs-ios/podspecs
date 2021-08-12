@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_wallet"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_wallet/3.39.0-SNAPSHOT/ioskit_wallet-3.39.0-20210812.103727-5.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_wallet/3.39.0-SNAPSHOT/ioskit_wallet-3.39.0-20210812.113429-6.zip" }
   s.source_files = 'ioskit_wallet/src/**/*.{swift,h,m}'
   s.platform = :ios, '9.3'
   s.requires_arc = true
