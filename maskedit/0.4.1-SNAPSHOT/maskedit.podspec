@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for maskedit"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/maskedit/maskedit/0.4.1-SNAPSHOT/maskedit-0.4.1-20210812.112758-15.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/qulix/maskedit/maskedit/0.4.1-SNAPSHOT/maskedit-0.4.1-20210812.141348-16.zip" }
   s.source_files = 'maskedit/src/**/*.{swift,h,m}'
   s.platform = :ios, '10.0'
   s.requires_arc = true
