@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for ioskit_serialization"
   spec.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_serialization/3.51.0-SNAPSHOT/ioskit_serialization-3.51.0-20240110.141702-1.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_serialization/3.51.0-SNAPSHOT/ioskit_serialization-3.51.0-20240111.131350-2.zip" }
   spec.source_files = 'ioskit_serialization/src/**/*.{swift,h,m}'
   spec.platform = :ios, '13.0'
   spec.requires_arc = true
