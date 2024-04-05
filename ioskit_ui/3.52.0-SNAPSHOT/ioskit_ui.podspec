@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "No homepage for ioskit_ui"
   spec.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   spec.author = "CS iOS Team"
-  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_ui/3.52.0-SNAPSHOT/ioskit_ui-3.52.0-20240328.082214-1.zip" }
+  spec.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_ui/3.52.0-SNAPSHOT/ioskit_ui-3.52.0-20240405.101819-2.zip" }
   spec.source_files = 'ioskit_ui/src/**/*.{swift,h,m}'
   spec.platform = :ios, '13.0'
   spec.requires_arc = true
