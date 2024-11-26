@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_logger"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_logger/3.57.0-SNAPSHOT/ioskit_logger-3.57.0-20241126.104931-16.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_logger/3.57.0-SNAPSHOT/ioskit_logger-3.57.0-20241126.134527-17.zip" }
   s.source_files = 'ioskit_logger/src/**/*.{h,m,swift}'
   s.platform = :ios, '13.0'
   s.requires_arc = true
