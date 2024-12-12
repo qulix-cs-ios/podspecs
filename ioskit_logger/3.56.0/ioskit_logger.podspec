@@ -12,5 +12,6 @@ Pod::Spec.new do |s|
   s.platform = :ios, '13.0'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit'
+  s.dependency 'SwiftLazy', '1.1.9'
 
 end
