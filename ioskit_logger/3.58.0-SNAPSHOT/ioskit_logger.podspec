@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.author = "CS iOS Team"
   s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_logger/3.58.0-SNAPSHOT/ioskit_logger-3.58.0-20241112.114307-2.zip" }
   s.source_files = 'ioskit_logger/src/**/*.{h,m,swift}'
-  s.platform = :ios, '13.0'
+  s.platform = :ios, '11.0'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit'
-  s.dependency 'SwiftLazy', '1.1.9'
+  s.dependency 'DITranquillity', '4.5.0'
 
 end
