@@ -17,4 +17,5 @@ Pod::Spec.new do |spec|
   spec.dependency 'BiometricAuthentication', '3.1.3'
   spec.dependency 'DITranquillity', '4.5.0'
   spec.dependency 'IOSSecuritySuite', '2.1.0'
+  spec.dependency 'SwiftLazy', '1.2.0'
 end
