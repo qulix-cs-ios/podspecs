@@ -7,12 +7,12 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_crashreporter"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_crashreporter/3.58.0-SNAPSHOT/ioskit_crashreporter-3.58.0-20241212.151035-5.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_crashreporter/3.58.0-SNAPSHOT/ioskit_crashreporter-3.58.0-20241218.104256-6.zip" }
   s.source_files = 'ioskit_crashreporter/src/**/*.{swift,h,m}'
   s.platform = :ios, '13.0'
   s.requires_arc = true
   s.ios.frameworks = 'UIKit', 'Foundation', 'MessageUI'
-  s.dependency 'KSCrash', '1.17.0'
+  s.dependency 'KSCrash', '2.0.0-rc.8'
   s.dependency 'SSZipArchive', '2.4.3'
   s.dependency 'ioskit_logger', '3.58.0-SNAPSHOT'
 
