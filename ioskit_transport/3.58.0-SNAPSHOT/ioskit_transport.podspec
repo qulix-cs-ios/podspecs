@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "No homepage for ioskit_transport"
   s.license = "Copyright 2002-2019 Qulix Systems. Comprehensive Solutions."
   s.author = "CS iOS Team"
-  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_transport/3.58.0-SNAPSHOT/ioskit_transport-3.58.0-20241219.100223-7.zip" }
+  s.source = { :http => "https://cs-repo.qulix.com/content/repositories/snapshots/com/ioskittest/ioskit_transport/3.58.0-SNAPSHOT/ioskit_transport-3.58.0-20250122.095947-8.zip" }
   s.source_files = 'ioskit_transport/src/**/*.{swift,h,m}'
   s.platform = :ios, '13.0'
   s.requires_arc = true
